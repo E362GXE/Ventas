@@ -5,7 +5,7 @@ Pychar community Edition 2022.22<br>
 ## Descripcuion
 El proyecto contiene segmentos de códigos donde verifica los datos de usuario que él mismo ingresa, al mismo tiempo verifica<br>
 tambien las ventas, donde se cálcula las ventas anuales, que ventas son las mejores, el premio proporcionado<br>
-al vendedor, su día libre dependiendo el éxito alcanzaddo en sus ventas y su bono proporcionado dependiendo también<br>
+al vendedor, su día libre dependiendo el éxito alcanzado en sus ventas y su bono proporcionado dependiendo también<br>
 de la cantidad de sus ventas anuales.
 
 ## Estructura:<br>
